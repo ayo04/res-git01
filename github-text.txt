@@ -1,2 +1,3 @@
-this is ayo.
-i am under the water
+this is solomon.
+
+this is our git first class
